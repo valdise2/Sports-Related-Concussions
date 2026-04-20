@@ -8,7 +8,14 @@ of concussions will exhibit higher levels of depressive symptoms
 concussion history. 
 
 ## Tools Used
-Python, pandas, Numpy
+Python, pandas, Numpy, etc.
+
+## Key Findings
+- Decision tree (sadness) and gradient boosting (headache) algorithms are the most robust based on evaluation metrics
+- Models are better predictors of sadness than headache
+- Sadness symptom risk and headache symptom risk are strongly predicted by Post-Concussion Symptom Scale (PCSS)
+- A wider acceptance of PCSS is recommended for identification of depressive symptoms in adolescents
+
 
 ## Data Source
 The project utilizes a data set containing data for Canadian adolescents 
