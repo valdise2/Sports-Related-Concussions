@@ -1,4 +1,4 @@
-# stone-cap
+# Sports Related Concussions
 This repository houses the data for a concussion-based research project.
 The goal of the project is to determine whether adolscents with a history
 of concussions will exhibit higher levels of depressive symptoms
